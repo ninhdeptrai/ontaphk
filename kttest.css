@@ -1,0 +1,82 @@
+ .vision{
+	width: 100%	;
+	height: 500px;
+	background-image:  url("image/xaydung.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #cccccc;
+	
+}
+.vision h2{
+	position: absolute;
+	top: 107px;
+	width: 400px;
+	font-weight: bold; 
+	font-size: 50px;
+	 color: white;
+
+}
+.vision p{
+	width: 400px;
+	position: absolute;
+	top: 240px;
+	color: white;
+
+}
+.vision .btn{
+	width: 150px;
+	position: absolute;
+	top: 350px;
+}
+.card img{
+	height: 300px;
+}
+.lead h2{
+	color: white;
+	font-weight: bold;
+}
+.lead p{
+	color: white;
+}
+.lead .text {
+	position: absolute;
+	top: 120px;
+}
+.icon{
+	height: 300px;
+
+}
+ .xem{
+	width: 100%	;
+	height: 500px;
+	background-image:  url("image/xaydung.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #cccccc;
+	
+}
+.row .circle{
+	border: 0.5rem solid white;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin-left: 2rem;
+}
+.row .text{
+	color: white;
+	font-size: 40px;
+	margin-left: 1rem;
+	margin-top: 1rem;
+}
+.circle h1{
+	padding-top: 10px;
+}
+.end{
+	margin-top: 3rem;
+
+}
+.end .btnn{
+	margin-top: 8rem;
+	
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mang</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<script type="text/javascript" src="js/jquery-3.3.1.slim.min.js"></script>
+	<script type="text/javascript" src="js/popper.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+</head>
+<body>
+	Name:
+	<input type="text" id="ten">
+	<br>
+	<br>
+	Ten cua ban la:
+	<input type="text" id="hienthi">
+	<br>
+	<br>
+	<input type="button" value="Xac Nhan" onclick="getName()">
+	<script language="javascript">
+		function getName() {
+			var nhap = document.getElementById("ten").value;
+			document.getElementById("hienthi").value = nhap;
+		
+		}
+		
+		
+	</script>
+
+</body>
+</html>

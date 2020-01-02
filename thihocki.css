@@ -1,0 +1,20 @@
+.background {
+    background-image: url(image/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 0.9;
+   
+}
+
+.bg {
+    background-color: #85a3c8;
+  
+}
+.container .ninh{
+	position: relative;
+	top: -100px;
+}
+.carousel{
+	position: absolute;
+	top: -70px;
+}
